@@ -1,0 +1,14 @@
+/Users/theoramalatso/CODE/CONSOLEPROJECTS/BitWiseOperations/BitWiseOperations/bin/Debug/net7.0/BitWiseOperations
+/Users/theoramalatso/CODE/CONSOLEPROJECTS/BitWiseOperations/BitWiseOperations/bin/Debug/net7.0/BitWiseOperations.deps.json
+/Users/theoramalatso/CODE/CONSOLEPROJECTS/BitWiseOperations/BitWiseOperations/bin/Debug/net7.0/BitWiseOperations.runtimeconfig.json
+/Users/theoramalatso/CODE/CONSOLEPROJECTS/BitWiseOperations/BitWiseOperations/bin/Debug/net7.0/BitWiseOperations.dll
+/Users/theoramalatso/CODE/CONSOLEPROJECTS/BitWiseOperations/BitWiseOperations/bin/Debug/net7.0/BitWiseOperations.pdb
+/Users/theoramalatso/CODE/CONSOLEPROJECTS/BitWiseOperations/BitWiseOperations/obj/Debug/net7.0/BitWiseOperations.GeneratedMSBuildEditorConfig.editorconfig
+/Users/theoramalatso/CODE/CONSOLEPROJECTS/BitWiseOperations/BitWiseOperations/obj/Debug/net7.0/BitWiseOperations.AssemblyInfoInputs.cache
+/Users/theoramalatso/CODE/CONSOLEPROJECTS/BitWiseOperations/BitWiseOperations/obj/Debug/net7.0/BitWiseOperations.AssemblyInfo.cs
+/Users/theoramalatso/CODE/CONSOLEPROJECTS/BitWiseOperations/BitWiseOperations/obj/Debug/net7.0/BitWiseOperations.csproj.CoreCompileInputs.cache
+/Users/theoramalatso/CODE/CONSOLEPROJECTS/BitWiseOperations/BitWiseOperations/obj/Debug/net7.0/BitWiseOperations.dll
+/Users/theoramalatso/CODE/CONSOLEPROJECTS/BitWiseOperations/BitWiseOperations/obj/Debug/net7.0/refint/BitWiseOperations.dll
+/Users/theoramalatso/CODE/CONSOLEPROJECTS/BitWiseOperations/BitWiseOperations/obj/Debug/net7.0/BitWiseOperations.pdb
+/Users/theoramalatso/CODE/CONSOLEPROJECTS/BitWiseOperations/BitWiseOperations/obj/Debug/net7.0/BitWiseOperations.genruntimeconfig.cache
+/Users/theoramalatso/CODE/CONSOLEPROJECTS/BitWiseOperations/BitWiseOperations/obj/Debug/net7.0/ref/BitWiseOperations.dll
